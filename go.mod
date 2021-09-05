@@ -1,4 +1,4 @@
-module github.com/gocode75/go-nginx
+module github.com/manoj-gupta/go-nginx
 
 go 1.16
 
